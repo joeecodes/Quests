@@ -1,0 +1,8 @@
+name: Quests
+version: '1.0-SNAPSHOT'
+main: me.joehosten.quests.Quests
+api-version: '1.20'
+author: "Joe Hosten"
+description: "A DevRoom trial plugin"
+
+
